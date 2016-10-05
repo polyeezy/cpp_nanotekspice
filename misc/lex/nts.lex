@@ -1,0 +1,14 @@
+0			display
+1			#=%
+2			simulate
+3			loop
+4			dump
+5			exit
+6			.*:
+7			input
+8			output
+9			%
+10			*:%
+11			clock
+12			true
+13			false
